@@ -1,9 +1,5 @@
 module.exports = {
-  pathPrefix: '/traworld/',
-  siteMetadata: {
-    siteUrl: 'http://creativeunicorn.com/staging',
-    title: 'Traworld',
-  },
+  pathPrefix: '/traward/',
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-image`,
